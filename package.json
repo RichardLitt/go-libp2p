@@ -190,9 +190,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmXHZVjWjAgLXTBrH9LZ3u1VRiQBsmaPnd8ZWJG8jTTQNC",
+      "hash": "QmY1hw6eNuhu8whMPJnUWEFqggByepW5rEsJPhCtcL46XA",
       "name": "go-tcp-transport",
-      "version": "1.0.1"
+      "version": "1.0.2"
     }
   ],
   "gxVersion": "0.4.0",
